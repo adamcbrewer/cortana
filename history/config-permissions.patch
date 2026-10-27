@@ -1,0 +1,51 @@
+commit 4455da2b1663c968eba0caaf14e53edff51e088b
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-30T13:55:10+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-30T13:55:10+01:00
+
+    Restrict Cortana subagent delegation
+
+diff --git a/opencode/.config/opencode/opencode.json b/opencode/.config/opencode/opencode.json
+index 941fb5663bff8c58fdc9ebcfe0e72f6912cd783c..eb2272ff86863fda3555766b528624cba0186780 100644
+--- a/opencode/.config/opencode/opencode.json
++++ b/opencode/.config/opencode/opencode.json
+@@ -1,6 +1,11 @@
+ {
+   "$schema": "https://opencode.ai/config.json",
+   "model": "openai/gpt-5.6-sol",
++  "permission": {
++    "task": {
++      "cortana-*": "deny"
++    }
++  },
+   "agent": {
+     "build": {
+       "model": "openai/gpt-5.6-sol",
+
+commit 4f654cca2bb79a8cfdf5f8ac08c20b7374d070c9
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-10-12T08:56:12+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-10-12T08:56:12+01:00
+
+    Removes the Cortana agent workflow
+    
+    Retires the Cortana agents, command and documentation, and clears the obsolete task permission rule that only applied to those agents.
+
+diff --git a/opencode/.config/opencode/opencode.json b/opencode/.config/opencode/opencode.json
+index 2271e8205b194ded1dcca8dc4d94b0bc5a16a880..5a176814998959a088526a259c206d0b24b03180 100644
+--- a/opencode/.config/opencode/opencode.json
++++ b/opencode/.config/opencode/opencode.json
+@@ -17,11 +17,6 @@
+       }
+     }
+   },
+-  "permission": {
+-    "task": {
+-      "cortana-*": "deny"
+-    }
+-  },
+   "agent": {
+     "build": {
+       "model": "openai/gpt-6.1-sol",

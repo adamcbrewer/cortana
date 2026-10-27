@@ -1,0 +1,167 @@
+commit 310a99b833ba0b1c9e1d40dd12e8fb93da7026b8
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-23T13:43:41+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-23T13:43:41+01:00
+
+    Cortana agent system
+
+commit 6a2e12aa4d4cf483e3b5c1f2345467e696e70b08
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-24T09:46:12+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-24T09:46:12+01:00
+
+    Expand Cortana Git permissions
+    
+    Allow read-only roles to inspect local and GitHub state without repeated prompts, while giving the implementer complete Git access and standardizing authenticated GitHub operations on gh.
+
+commit 3e7a093cb90f5640792066a60ef0ead26d6b2560
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-24T10:50:53+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-24T10:50:53+01:00
+
+    Tighten Cortana worktree protocol
+
+commit 512f2fad854e3771ee5b1322b18e02d0115bcb33
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-24T10:56:48+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-24T10:56:48+01:00
+
+    Enforce Cortana approval gates
+
+commit 988bb54b1ad25e1648f720897ac53f476bccfdc6
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-27T11:17:38+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-27T11:17:38+01:00
+
+    Upgrade Cortana agent permissions
+
+commit 87ec21fc0419f3602900b0fc991df7d1f1b50c09
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-27T11:23:31+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-27T11:23:31+01:00
+
+    Add adversarial Cortana review pass
+
+commit 6f924707d84f133133aa0ea310425c8a28848c47
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-27T11:29:09+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-27T11:29:09+01:00
+
+    Close Cortana review skip loopholes
+
+commit 5a96791f6f54a0697e63326ede73422a96a3ef45
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-27T15:34:16+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-27T15:34:16+01:00
+
+    Stop managing run handoff ignores
+
+commit 919df64689b87673ea92a3bcb8b9ba4958ac9ec7
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-29T09:31:23+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-29T09:31:23+01:00
+
+    Make Cortana verification risk-adaptive
+
+commit 4455da2b1663c968eba0caaf14e53edff51e088b
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-07-30T13:55:10+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-07-30T13:55:10+01:00
+
+    Restrict Cortana subagent delegation
+
+commit 2a64301b0d1420cf97a3b0bb13a4bfbf422eb001
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-03T09:52:49+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-03T09:52:49+01:00
+
+    Tune Cortana subagent models
+
+commit b0301c4a6b9036a80866e2a78f9b670b88d2325e
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-03T10:07:05+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-03T10:07:05+01:00
+
+    Visualize Cortana agent interactions
+
+commit b03318e6cfd17bfd07950973290d54f8084ad17e
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-06T13:03:52+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-06T13:03:52+01:00
+
+    Manage vendor OpenCode skills
+
+commit f8e10362a7e32cd22e2f41beccf99a047c1f8d78
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-06T13:08:00+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-06T13:08:00+01:00
+
+    Harden OpenCode skill management
+
+commit 2f5cfe9cf61559fbd18d851efa444b12813a70d2
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-06T13:36:02+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-06T13:36:02+01:00
+
+    Pin and vet OpenCode skills
+
+commit f8749aa3c4977ebf709e5d5641065e49a0562f8a
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-23T13:26:15+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-23T13:26:15+01:00
+
+    Allow Cortana to push and create PRs
+
+commit f11a73c187962000fa65a4e0a3aa2cee934febae
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-23T14:37:33+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-23T14:37:33+01:00
+
+    Adds omarchy stowings
+
+commit 4f6089d84fb2d53aab5de88f6c6f3b89405c9419
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-08-29T13:37:12+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-08-29T13:37:12+01:00
+
+    Audit OpenCode agent configuration
+    
+    Tighten skill triggers and cleanup safety, reconcile managed vendor skills, and remove duplicated or stale agent guidance.
+
+commit 90a5d63d6a56bf10880d2ca389a9c93db5c58e6f
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-09-28T13:36:17+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-09-28T13:36:17+01:00
+
+    Simplify Cortana instructions and add run retrospectives
+    
+    Reduce repeated policy and reporting overhead, clarify completion criteria, and assess evidence after each handoff. Make diagrams optional and commits and publishing depend on explicit user intent.
+
+commit 4f654cca2bb79a8cfdf5f8ac08c20b7374d070c9
+Author:     Cortana contributor <contributor@example.com>
+AuthorDate: 2026-10-12T08:56:12+01:00
+Commit:     Cortana contributor <contributor@example.com>
+CommitDate: 2026-10-12T08:56:12+01:00
+
+    Removes the Cortana agent workflow
+    
+    Retires the Cortana agents, command and documentation, and clears the obsolete task permission rule that only applied to those agents.

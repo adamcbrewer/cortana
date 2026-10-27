@@ -1,0 +1,95 @@
+{
+  "purpose": "Sanitised historical archive for public study and adaptation; not installed or executed.",
+  "source_repository": "https://github.com/adamcbrewer/dotfiles",
+  "recovered_at_utc": "2026-10-27T09:32:07.856028+00:00",
+  "github_main_verified": "7b54f27a0d98d6c64dceb5aea403810123652259",
+  "creation_commit": "310a99b833ba0b1c9e1d40dd12e8fb93da7026b8",
+  "last_workflow_change_commit": "90a5d63d6a56bf10880d2ca389a9c93db5c58e6f",
+  "snapshot_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+  "removal_commit": "4f654cca2bb79a8cfdf5f8ac08c20b7374d070c9",
+  "files": [
+    {
+      "archive_path": "agents/cortana-implementer.md",
+      "source_path": "opencode/.config/opencode/agents/cortana-implementer.md",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "ce5880171ecc5b771e02923fad7c92152893dc12",
+      "sha256": "ccb5c2b456e13447d2a4d08ac941eca7cf8157cc69e76f010b40e822b3afc765",
+      "source_sha256": "ccb5c2b456e13447d2a4d08ac941eca7cf8157cc69e76f010b40e822b3afc765"
+    },
+    {
+      "archive_path": "agents/cortana-reviewer.md",
+      "source_path": "opencode/.config/opencode/agents/cortana-reviewer.md",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "090cf418fda346ef628c97ccec0eeaa477ce35b3",
+      "sha256": "b24cbac6e6cb8688edf7f2c8f4cf18c440167536a814ffdbc5a301756e6c7df5",
+      "source_sha256": "b24cbac6e6cb8688edf7f2c8f4cf18c440167536a814ffdbc5a301756e6c7df5"
+    },
+    {
+      "archive_path": "agents/cortana-scout.md",
+      "source_path": "opencode/.config/opencode/agents/cortana-scout.md",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "90002231b2543354282f064b2d8781e058fa5011",
+      "sha256": "c3e801930e61435328bde75732a2f88a5b0ba5ca2e36c39a271b5eeb3efdf795",
+      "source_sha256": "c3e801930e61435328bde75732a2f88a5b0ba5ca2e36c39a271b5eeb3efdf795"
+    },
+    {
+      "archive_path": "agents/cortana-verifier.md",
+      "source_path": "opencode/.config/opencode/agents/cortana-verifier.md",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "f5cf56fceeb295c8e51527227a68134ef45a5baa",
+      "sha256": "97175d4f435505b0f7b10d895856a9fff2f82c0707f5fd4e5b68687e0129c26c",
+      "source_sha256": "97175d4f435505b0f7b10d895856a9fff2f82c0707f5fd4e5b68687e0129c26c"
+    },
+    {
+      "archive_path": "agents/cortana.md",
+      "source_path": "opencode/.config/opencode/agents/cortana.md",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "e8c26dd4d3480f3e82200679e35352da029c9635",
+      "sha256": "5139791354f9a54c73decad7847301050d6739ac652dc6d1d8610cccb2904ceb",
+      "source_sha256": "5139791354f9a54c73decad7847301050d6739ac652dc6d1d8610cccb2904ceb"
+    },
+    {
+      "archive_path": "commands/cortana.md",
+      "source_path": "opencode/.config/opencode/commands/cortana.md",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "f1110201bdb3ab75d7e0f1cc7d7ff2703514ee6e",
+      "sha256": "c09879d052295ca9e7aabda09aad13514d5f4eac6319d2d03b931dbce1763ad1",
+      "source_sha256": "c09879d052295ca9e7aabda09aad13514d5f4eac6319d2d03b931dbce1763ad1"
+    },
+    {
+      "archive_path": "docs/cortana.md",
+      "source_path": "opencode/.config/opencode/docs/cortana.md",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "7eafd512018e5ae256031e71b2ea4bde64ddd198",
+      "sha256": "dd7f5a06f04d2195299add5faea6d8e833afacf4baa813fcc7a05e7f06600893",
+      "source_sha256": "dd7f5a06f04d2195299add5faea6d8e833afacf4baa813fcc7a05e7f06600893"
+    },
+    {
+      "archive_path": "docs/handoff-260723-cortana-agent-system.md",
+      "source_path": "docs/handoff-260723-cortana-agent-system.md",
+      "source_commit": "0a4af887d38a0626649863c3e2c51345234a2ed8",
+      "source_blob": "ddac6e09539bd03c0dc47e9f58ef3f741b6b1401",
+      "sha256": "36d188b914faf55ddd994d2070590fbf60eec3297df077068c7c6a57fc62e272",
+      "source_sha256": "a47177a1dc17dd6b6f3d782cab578841256e2c90cddf8ee0a8b11e3ec5d493c1"
+    },
+    {
+      "archive_path": "context/opencode.example.json",
+      "source_path": "opencode/.config/opencode/opencode.json",
+      "source_commit": "cfcf2d5b6c5e6c483527793788a667930aaf584c",
+      "source_blob": "2271e8205b194ded1dcca8dc4d94b0bc5a16a880",
+      "sha256": "ac21f979bac13c543a97d5924d5118ed6734b518be474af3a13f446f917931d4",
+      "source_sha256": "6770f066750c5210746ffbb5eddb0629a0d5a722b15c0537837e5df08c5a5823"
+    }
+  ],
+  "history_scope": "Sanitised references for Cortana agents, command and documentation, including the earlier design handoff; separate Cortana-related OpenCode configuration patches. Source main-branch ancestry only; local T3 checkpoint refs excluded.",
+  "publication_changes": [
+    "Replaced README.txt with README.md and added .gitignore and history/README.md.",
+    "Replaced personal author and committer identities in historical exports with a generic example identity.",
+    "Omitted the shared conversation link from the handoff and historical patches; labelled the handoff as superseded.",
+    "Replaced context/opencode.json with context/opencode.example.json containing only the schema and Cortana task-permission rule.",
+    "Retained the five agent definitions, slash command, and final workflow overview without changes.",
+    "Rewrote the public README, history guide, and handoff introduction in the author's voice; documented OpenCode v1-only support.",
+    "Regenerated SHA256SUMS for all public files except itself."
+  ],
+  "integrity": "sha256 describes the current public file; source_sha256 describes the original recovered file. Source commit and blob IDs identify upstream originals. Historical patches have been redacted and are not exact upstream exports. SHA256SUMS covers the complete public file set except itself."
+}
